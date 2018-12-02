@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=aexp2
+name=Arrow Experience
+version=v1.5
 versionCode=1
-author=topjohnwu
-description=A short description
+author=JebaitedXD
+description=Systemless replaces your stock boot animation,launcher,font and sounds with Pixel 2 one. Based on PE 9.0 sept build, resolution stock 1080x1920.
 minMagisk=17000
